@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+body {
+  background-image: url('wthomas29.github.io/yoda.png');
+}
+</style>
+
 <title>SexySex420</title>
 </head>
 <body>
-<p>Im just putting this here lmao</p>
+<h1>It be like that</h1>
+<p>Welcome to the alvin and the chipmunks fan club!</p>
+<h2>Favourite videos</h2>
+<iframe width="684" height="385" src="https://www.youtube.com/embed/MsJCTNvPZVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p></p>
 </body>
 </html>
